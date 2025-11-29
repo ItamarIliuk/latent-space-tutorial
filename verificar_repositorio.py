@@ -59,10 +59,7 @@ def main():
         ("setup.py", "Setup do pacote"),
         (".gitignore", "Git ignore"),
         ("CONTRIBUTING.md", "Guia de contribuição"),
-        ("INSTRUCTIONS.md", "Instruções"),
-        ("QUICK_START.md", "Guia rápido"),
         ("SUMARIO.md", "Sumário"),
-        ("COMANDOS_GIT.md", "Comandos Git"),
     ]
     
     for filename, description in files_to_check:
@@ -124,9 +121,8 @@ def main():
         print("✅ PERFEITO! Tudo está pronto para upload!")
         print()
         print("🚀 Próximos passos:")
-        print("1. Leia COMANDOS_GIT.md")
-        print("2. Execute os comandos git")
-        print("3. Faça upload para o GitHub")
+        print("1. Execute os comandos git")
+        print("2. Faça upload para o GitHub")
         print()
         return 0
     else:
