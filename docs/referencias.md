@@ -416,7 +416,7 @@
 @misc{latentspace2024,
   author = {Professora Itamar},
   title = {Latent Space Tutorial: Autoencoders e VAEs Educacional},
-  year = {2024},
+  year = {2025},
   publisher = {UTFPR},
   howpublished = {\url{https://github.com/your-repo/latent-space-tutorial}},
   note = {Tutorial educacional sobre espaços latentes}
@@ -426,7 +426,7 @@
 ### APA
 
 ```
-Itamar. (2024). Latent Space Tutorial: Autoencoders e VAEs Educacional.
+Itamar. (2025). Latent Space Tutorial: Autoencoders e VAEs Educacional.
 UTFPR. https://github.com/your-repo/latent-space-tutorial
 ```
 
@@ -434,6 +434,6 @@ UTFPR. https://github.com/your-repo/latent-space-tutorial
 
 ## Atualização
 
-Este documento é atualizado regularmente. Última atualização: **Novembro 2024**.
+Este documento é atualizado regularmente. Última atualização: **Novembro 2025**.
 
 Para sugerir adições, abra uma issue no repositório.
