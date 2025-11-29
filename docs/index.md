@@ -229,10 +229,10 @@ Classes para experimentação sistemática:
 ## 📝 Como Citar
 
 ```bibtex
-@misc{latentspace2024,
+@misc{latentspace2025,
   author = {Professora Itamar},
   title = {Latent Space Tutorial: Autoencoders e VAEs Educacional},
-  year = {2024},
+  year = {2025},
   publisher = {UTFPR},
   howpublished = {\url{https://github.com/your-repo/latent-space-tutorial}}
 }
