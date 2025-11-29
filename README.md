@@ -242,7 +242,7 @@ Se você usar este material em suas aulas ou pesquisas, por favor cite:
 @misc{latent_space_tutorial,
   author = {Profa. Itamar},
   title = {Tutorial de Espaço Latente: Autoencoders e VAEs},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/itamar15/latent-space-tutorial}
 }
